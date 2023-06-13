@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Jumba</string>
+    <string name="registration">Регистрация</string>
+    <string name="authorization">Вход</string>
+    <string name="store">Магазин</string>
+    <string name="cart">Корзина</string>
+    <string name="favourited">Избранное</string>
+    <string name="profile">Профиль</string>
+    <string name="orders">Заказы</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shop">Магазин</string>
+    <string name="exit_from_accaunt">Выйти из аккаунта</string>
+</resources>
